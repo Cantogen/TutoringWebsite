@@ -1,0 +1,28 @@
+body {
+  background-image: url("vectorBack.jpg");
+}
+
+div {
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	margin: 25px;
+	padding: 20px;
+}
+
+p {
+	font-size: 150%; 
+}
+
+h2 {
+	color: rgb(230, 230, 0);
+	font-size: 500%;
+}
+
+
+styledimg {
+background-image: url(sched.jpg);
+background-repeat: no-repeat;
+width: 10px;
+height: 20px;
+}
